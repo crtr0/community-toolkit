@@ -1,6 +1,6 @@
 # The Developer Community Toolkit
 
-It is the goal of this repository to collect information, best practices, articles, videos, templates and any other kind of resource that may be helpful for people who are interested in organizing events in the developer community. These events include but are not limited to: hack days, meetups, conferences and workshops.
+It is the goal of this repository to collect information, best practices, articles, videos, templates and any other kind of resource that may be helpful for people who are interested in contributing to the developer community. Contributions can include: organizing events, mentoring developers, anything that involves giving back to the community.
 
 ## Contents
 
