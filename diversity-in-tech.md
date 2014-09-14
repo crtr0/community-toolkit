@@ -4,4 +4,5 @@
 * [Rails Girls](http://railsgirls.com)
 * [Girls Who Code](http://girlswhocode.com)
 * [Black Girls Code](http://blackgirlscode.com)
+* [Django Girls](http://djangogirls.org)
 
