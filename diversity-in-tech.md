@@ -7,3 +7,4 @@
 * [Django Girls](http://djangogirls.org)
 * [PyLadies](http://www.pyladies.com/)
 * [Urban Teens eXploring Technology](http://www.urbantxt.com/)
+* [Girls in Tech](http://www.girlsintech.org/)
